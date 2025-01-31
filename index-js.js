@@ -54,8 +54,8 @@ headerOnOff.addEventListener('click', () => {
                             if (goLoading == 1) {
                                 setTimeout(() => {
                                     if (goLoading == 1) {
-                                        // window.location.href = 'second.html'
-                                        window.location.href = 'second.php'
+                                        window.location.href = 'second.html'
+                                        // window.location.href = 'second.php'
 
 
                                         setTimeout(() => {
